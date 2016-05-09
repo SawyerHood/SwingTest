@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2BB65DF9-93D0-694F-47AC-009805EA3120}") = "SwingTest", "Assembly-CSharp-firstpass.csproj", "{86F6AA5D-BCE8-86D9-F2BC-D6EC3F30183A}"
+EndProject
+Project("{2BB65DF9-93D0-694F-47AC-009805EA3120}") = "SwingTest", "Assembly-CSharp.csproj", "{169DD8F3-F864-C8F4-E591-6CC548732817}"
+EndProject
+Project("{2BB65DF9-93D0-694F-47AC-009805EA3120}") = "SwingTest", "Assembly-CSharp-Editor.csproj", "{15C2E498-47BF-60D7-506B-C5BF236BA616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F6AA5D-BCE8-86D9-F2BC-D6EC3F30183A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F6AA5D-BCE8-86D9-F2BC-D6EC3F30183A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F6AA5D-BCE8-86D9-F2BC-D6EC3F30183A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F6AA5D-BCE8-86D9-F2BC-D6EC3F30183A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169DD8F3-F864-C8F4-E591-6CC548732817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169DD8F3-F864-C8F4-E591-6CC548732817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169DD8F3-F864-C8F4-E591-6CC548732817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169DD8F3-F864-C8F4-E591-6CC548732817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C2E498-47BF-60D7-506B-C5BF236BA616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C2E498-47BF-60D7-506B-C5BF236BA616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C2E498-47BF-60D7-506B-C5BF236BA616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C2E498-47BF-60D7-506B-C5BF236BA616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
