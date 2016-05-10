@@ -119,4 +119,12 @@ public class SwingScript : MonoBehaviour {
         playerState = PlayerState.Jumping;
         renderer.sprite = jumping;
     }
+
+    void OnTriggerStay2D(Collider2D other)
+    {
+        if (playerState != PlayerState.Standing)
+        {
+            OnTriggerEnter2D(other);
+        }
+    }
 }
